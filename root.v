@@ -1,7 +1,7 @@
 module ganteng
 
 import os
-import net.http
+import http
 // To export a function we have to use `pub`
 pub fn say_hi() {
 	println('hello from mymodule!')
